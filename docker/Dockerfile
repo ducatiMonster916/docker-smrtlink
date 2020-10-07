@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL Author=Roberto Lleras (rolleras@microsoft.com)
+LABEL Author="Roberto Lleras (rolleras@microsoft.com)"
 
 # System configuration
 RUN chmod a+w /opt
